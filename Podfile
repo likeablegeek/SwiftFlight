@@ -1,4 +1,4 @@
-platform :ios, '14.0'
+platform :macos, '12.3'
 
 target 'SwiftFlight' do
     pod 'libSwiftSocket', '~> 1.2.5'
